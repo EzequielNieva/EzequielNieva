@@ -21,7 +21,7 @@ Soy un desarrollador full stack. Disfruto resolviendo problemas y creando soluci
 <br>   
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,git,github,react,bootstrap,idea,maven,vscode,spring"/>
+    <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,git,github,react,bootstrap,idea,maven,vscode,spring,nodejs,express,mongodb,nestjs,ts"/>
   </a>
 </p>
 
