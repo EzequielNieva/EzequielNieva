@@ -17,7 +17,7 @@ Soy un desarrollador full stack. Disfruto resolviendo problemas y creando soluci
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-| Backend | Java | Spring Boot | Spring Security | MySQL | Frontend | HTML | CSS | JavaScript | Thymeleaf | React | Git | GitHub.
+| Backend | Java | Spring Boot | Spring Security | Node.js | TypeScript | Express | Nest.js | MongoDB | PostgreSQL| MySQL | Frontend | HTML | CSS | JavaScript | Thymeleaf | React | Git | GitHub.
 <br>   
 <p align="left">
   <a href="#">
