@@ -17,11 +17,11 @@ Soy un desarrollador full stack. Disfruto resolviendo problemas y creando soluci
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-| Backend | Java | Spring Boot | Spring Security | Node.js | TypeScript | Express | Nest.js | MongoDB | PostgreSQL| MySQL | Frontend | HTML | CSS | JavaScript | Thymeleaf | React | Git | GitHub.
+| Backend| Node.js | TypeScript | Express | Nest.js | MongoDB | PostgreSQL| MySQL | Frontend | HTML | CSS | JavaScript | React | Git | GitHub.
 <br>   
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,git,github,react,bootstrap,idea,maven,vscode,spring,nodejs,express,mongodb,nestjs,ts"/>
+    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,git,github,react,bootstrap,vscode,nodejs,express,mongodb,nestjs,ts"/>
   </a>
 </p>
 
